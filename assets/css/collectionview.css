@@ -74,6 +74,10 @@
   font-weight: 700;
 }
 
+.banner > img {
+  margin: 0 auto;
+}
+
 .product {
   margin-bottom: 7rem;
   margin-top: 3rem;
