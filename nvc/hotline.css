@@ -342,3 +342,7 @@ input:focus,
   transform: translateX(-50%);
   padding: 1.5rem 0;
 }
+
+.header-middle-icon {
+  cursor: pointer;
+}

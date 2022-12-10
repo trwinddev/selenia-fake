@@ -374,6 +374,7 @@
 
 .relate-product-detail {
   gap: 2rem;
+  cursor: pointer;
 }
 
 .relate-product > h1,
@@ -389,6 +390,7 @@
 
 .seen-product {
   margin-bottom: 9rem;
+  cursor: pointer;
 }
 
 .seen-product > h2 {
@@ -527,3 +529,7 @@
 }
 
 /*# sourceMappingURL=productView.css.map */
+
+.header-middle-icon {
+  cursor: pointer;
+}
